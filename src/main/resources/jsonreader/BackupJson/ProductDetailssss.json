@@ -1,0 +1,23 @@
+[
+    {
+        "product_ID": "123",
+        "product_Name": "Nokia",
+        "product_Price": "456",
+        "product_Qnty": 4,
+        "stock": null
+    },
+    {
+        "product_ID": "1234",
+        "product_Name": "Samsung",
+        "product_Price": "456",
+        "product_Qnty": 2,
+        "stock": null
+    },
+    {
+        "product_ID": "12345",
+        "product_Name": "Vivo",
+        "product_Price": "456",
+        "product_Qnty": 2,
+        "stock": null
+    }
+]

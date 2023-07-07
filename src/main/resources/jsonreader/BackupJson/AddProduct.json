@@ -1,0 +1,58 @@
+[
+    {
+        "product_ID": "123",
+        "product_Name": "Nokia",
+        "product_Price": "456",
+        "product_Qnty": 1,
+        "stock" : 1000
+    },
+    {
+        "product_ID": "1234",
+        "product_Name": "Samsung",
+        "product_Price": "456",
+        "product_Qnty": 1,
+         "stock" : 1000
+    },
+    {
+        "product_ID": "12345",
+        "product_Name": "Vivo",
+        "product_Price": "456",
+        "product_Qnty": 1,
+         "stock" : 1000
+    },
+    {
+        "product_ID": "123456",
+        "product_Name": "OnePlus",
+        "product_Price": "7,000",
+        "product_Qnty": 1,
+         "stock" : 1000
+    },
+    {
+        "product_ID": "5757",
+        "product_Name": "Iphone",
+        "product_Price": "50,000",
+        "product_Qnty": 1,
+         "stock" : 1000
+    },
+    {
+        "product_ID": "6060",
+        "product_Name": "Laptop",
+        "product_Price": "50,000",
+        "product_Qnty": 1,
+         "stock" : 1000
+    },
+    {
+        "product_ID": "6062",
+        "product_Name": "HP",
+        "product_Price": "1,00,000",
+        "product_Qnty": 1,
+         "stock" : 1000
+    },
+    {
+        "product_ID": "6063",
+        "product_Name": "LG",
+        "product_Price": "10,000",
+        "product_Qnty": 1,
+         "stock" : 1000
+    }
+]

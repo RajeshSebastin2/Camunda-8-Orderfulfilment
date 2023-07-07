@@ -1,0 +1,65 @@
+[
+	{
+		"product_ID": "123",
+		"product_Name": "Nokia",
+		"product_Price": 1000,
+		"product_Qnty": 1,
+		"stock": 2000
+	},
+	{
+		"product_ID": "1234",
+		"product_Name": "Samsung",
+		"product_Price": 2000,
+		"product_Qnty": 1,
+		"stock": 1000
+	},
+	{
+		"product_ID": "12345",
+		"product_Name": "Vivo",
+		"product_Price": 3000,
+		"product_Qnty": 1,
+		"stock": 1000
+	},
+	{
+		"product_ID": "123456",
+		"product_Name": "OnePlus",
+		"product_Price": 4000,
+		"product_Qnty": 1,
+		"stock": 1000
+	},
+	{
+		"product_ID": "5757",
+		"product_Name": "Iphone",
+		"product_Price": 5000,
+		"product_Qnty": 1,
+		"stock": 1000
+	},
+	{
+		"product_ID": "6060",
+		"product_Name": "LG",
+		"product_Price": 6000,
+		"product_Qnty": 1,
+		"stock": 3000
+	},
+	{
+		"product_ID": "6062",
+		"product_Name": "HP",
+		"product_Price": 7000,
+		"product_Qnty": 1,
+		"stock": 46000
+	},
+	{
+		"product_ID": "6063",
+		"product_Name": "Iphone",
+		"product_Price": 8000,
+		"product_Qnty": 1,
+		"stock": 4000
+	},
+	{
+		"product_ID": "6064",
+		"product_Name": "Mouse",
+		"product_Price": 699,
+		"product_Qnty": 1,
+		"stock": 2000
+	}
+]

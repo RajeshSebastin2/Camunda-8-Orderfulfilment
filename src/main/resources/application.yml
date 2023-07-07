@@ -1,0 +1,9 @@
+spring.h2.console.enabled: true
+spring.mail:
+  host: smtp.gmail.com
+  port: 587
+  username: rajeshsurgetech@gmail.com
+  password: hqcelookkyynwjoa
+  properties.mail.smtp:
+    auth: true
+    starttls.enable: true

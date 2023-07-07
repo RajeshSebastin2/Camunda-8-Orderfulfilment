@@ -1,0 +1,32 @@
+[
+    {
+        "Product_ID": "12345",
+        "Product_Name": "Samsung",
+        "Product_Price": "7,000",
+        "Product_Qnty": "2"
+    },
+    {
+        "Product_ID": "145",
+        "Product_Name": "Nokia",
+        "Product_Price": "9,000",
+        "Product_Qnty": "1"
+    },
+    {
+        "Product_ID": "5676",
+        "Product_Name": "oppo",
+        "Product_Price": "6,000",
+        "Product_Qnty": "1"
+    },
+    {
+        "Product_ID": "5563",
+        "Product_Name": "onedrive",
+        "Product_Price": "19,000",
+        "Product_Qnty": "1"
+    },
+    {
+        "Product_ID": "6686",
+        "Product_Name": "Sony",
+        "Product_Price": "7,600",
+        "Product_Qnty": "1"
+    }
+]
